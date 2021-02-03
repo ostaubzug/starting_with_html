@@ -1,0 +1,48 @@
+.myNewStyle {
+    font-family: Verdana, Arial, 
+     Helvetica, sans-serif;
+     font-weight: bold;
+     color: #FF0000;
+}
+
+.mySecondStyle {
+    font-family: Verdana, Arial,
+    Helvetica, sans-serif;
+    font-weight: bold;
+    color: #3cc013;
+}
+
+.myThirdStyle {
+    font-family: Verdana, Arial,
+    Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #FF0000;
+    text-shadow: 1px 1px 5px black;
+}
+
+
+h1{
+    font-family: Garamond, "Times New Roman" , serif;
+    font-size: 200%;
+}
+
+
+a:link{
+    color: rgb(102,102,102);
+}
+a:visited{
+    color: rgb(102,0,204);
+}
+a:hover{
+    color: rgb(0,96,255);
+}
+a:active{
+    color: rgb(255,0,102);
+}
+
+p ::first-letter{
+    color: red;
+    font-size: 200%;
+
+}
